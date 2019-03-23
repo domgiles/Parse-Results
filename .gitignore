@@ -1,0 +1,8 @@
+
+*.xml
+
+*.txt
+
+.ipynb_checkpoints/parse_results-checkpoint.py
+
+.ipynb_checkpoints/AnalyzeResults-checkpoint.ipynb
